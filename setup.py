@@ -42,7 +42,6 @@ setup(
     author_email="gabriel_yassunaga@hotmail.com",
     packages=find_packages(exclude='tests'),
     include_package_data=True,
-    # url="https://gitlab.com/projetos-automatizai/conass/login-conass",
     license="COPYRIGHT",
     description="Login do CONASS",
     long_description=long_description,
