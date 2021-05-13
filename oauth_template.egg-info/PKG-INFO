@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: oauth-template
+Version: 0.1.1
+Summary: Login do CONASS
+Home-page: UNKNOWN
+Author: Yassunaga
+Author-email: gabriel_yassunaga@hotmail.com
+License: COPYRIGHT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Intended Audience :: Information Technology
+Classifier: Natural Language :: English
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3.6
+Requires-Python: >=3.6
+Provides-Extra: dev
+Provides-Extra: unit
+Provides-Extra: integration

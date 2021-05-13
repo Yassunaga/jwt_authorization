@@ -1,0 +1,3 @@
+[console_scripts]
+oauth_template = oauth_template.__main__:start
+

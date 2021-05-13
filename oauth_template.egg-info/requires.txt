@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-jose[cryptography]
+passlib[bcrypt]
+
+[dev]
+pylama
+pytest
+
+[integration]
+pytest
+
+[unit]
+pytest
